@@ -1,6 +1,6 @@
 import React from 'react';
-import { Hero } from './components/Hero';
-import { RecruitmentForm } from './components/RecruitmentForm';
+import { Hero } from '@/components/Hero';
+import { RecruitmentForm } from '@/components/RecruitmentForm';
 
 const App: React.FC = () => {
   return (
